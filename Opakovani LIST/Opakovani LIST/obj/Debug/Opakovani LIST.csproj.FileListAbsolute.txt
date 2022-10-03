@@ -1,0 +1,10 @@
+G:\Programování\Opakovani LIST\Opakovani LIST\bin\Debug\Opakovani LIST.exe.config
+G:\Programování\Opakovani LIST\Opakovani LIST\bin\Debug\Opakovani LIST.exe
+G:\Programování\Opakovani LIST\Opakovani LIST\bin\Debug\Opakovani LIST.pdb
+G:\Programování\Opakovani LIST\Opakovani LIST\obj\Debug\Opakovani LIST.csprojAssemblyReference.cache
+G:\Programování\Opakovani LIST\Opakovani LIST\obj\Debug\Opakovani_LIST.Form1.resources
+G:\Programování\Opakovani LIST\Opakovani LIST\obj\Debug\Opakovani_LIST.Properties.Resources.resources
+G:\Programování\Opakovani LIST\Opakovani LIST\obj\Debug\Opakovani LIST.csproj.GenerateResource.cache
+G:\Programování\Opakovani LIST\Opakovani LIST\obj\Debug\Opakovani LIST.csproj.CoreCompileInputs.cache
+G:\Programování\Opakovani LIST\Opakovani LIST\obj\Debug\Opakovani LIST.exe
+G:\Programování\Opakovani LIST\Opakovani LIST\obj\Debug\Opakovani LIST.pdb
